@@ -1,4 +1,6 @@
 const app = Vue.createApp({
+
+    // branch_Test 깃추가 내용 
     data()  {
         return {
             courseGoalA: 'Finish the course and learn Vue!',
