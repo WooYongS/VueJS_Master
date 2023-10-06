@@ -1,7 +1,6 @@
 const app = Vue.createApp({
 
-    // devmaster 깃내용추가
-    // devmaster 깃내용추ㅏ2 
+    // branch_Test 깃추가 내용 
     data()  {
         return {
             courseGoalA: 'Finish the course and learn Vue!',
